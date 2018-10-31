@@ -1,0 +1,14 @@
+{
+  "store": {
+    "buy": {
+      "Item one": 10,
+      "Item two": 20
+    },
+    "sell": {
+      "Item one": 5,
+      "Item two": 15
+    }
+  },
+  "user data": {
+  }
+}
